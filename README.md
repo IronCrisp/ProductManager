@@ -1,5 +1,5 @@
 # ProductManager
-Video game product manager with the use of Java, JavaFX19, fxml and JDBC driver for SQL database server connections.
+Video game product manager with the use of Java, JavaFX19, fxml and JDBC11 driver for SQL database server connections.
 
 Main Project objectives:
 
